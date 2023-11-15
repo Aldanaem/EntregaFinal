@@ -1,8 +1,6 @@
 # EntregaFinal
 
-## Presentacion de la 3 Pre entrega. Grupo 8
-
-### Integrantes: Aldana Mañaricua, Gabriela Oxandaburu, Daniela Araujo, Clara Sanchez Egea. 
+## Integrantes: Aldana Mañaricua, Gabriela Oxandaburu, Daniela Araujo, Clara Sanchez Egea. 
 
 ### PREDICCION DE LA ELECCION EXTRA DE EQUIPAJE DE AEROLINEAS BRITISH AIRWAYS
 
@@ -11,6 +9,7 @@ INTRODUCCION> Es de publico conocimiento que en el 90% de los vuelos, los pasaje
 ### OBJETIVO. Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia de los pasajeros de Aerolineas British Airways.
 
 #### DICCIONARIO 
+
 -NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
 -CanalDeVenta: medio por el cual se relizo la venta de vuelos. 
 -TipoDeViaje': si es un viaje Ida y vuelta, Unidireccional o Circular.
