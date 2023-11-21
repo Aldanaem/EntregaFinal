@@ -10,15 +10,15 @@ Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia 
 
 ### DICCIONARIO 
 
--NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
--CanalDeVenta: medio por el cual se relizo la venta de vuelos. 
--TipoDeViaje': si es un viaje Ida y vuelta, Unidireccional o Circular.
--ClientePotencial: -Estadia: la duracion de la estadia. 
--HorarioDelVuelo: los hs de salida de los vuelos. 
--DiaDelVuelo: los dias dela semana de salida de los vuelos. 
--Ruta: Codigo Iata de aeropúertos. 
--OrigenReserva: Pais desde donde se hace la reserva 
--EquipajeExtra: eleccion de equipaje extra porparte de lospasajeros. 
--QuiereComidaEnVuelo: si desea comida en el vuelo. 
--DuracionDelVuelo: duracion de cada vuelo
--ReservaCompleta: si completan la reserva en el momento de hacer la compra.
+* NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
+* CanalDeVenta: medio por el cual se relizo la venta de vuelos. 
+- TipoDeViaje': si es un viaje Ida y vuelta, Unidireccional o Circular.
+- ClientePotencial: -Estadia: la duracion de la estadia. 
+- HorarioDelVuelo: los hs de salida de los vuelos. 
+- DiaDelVuelo: los dias dela semana de salida de los vuelos. 
+- Ruta: Codigo Iata de aeropúertos. 
+- OrigenReserva: Pais desde donde se hace la reserva 
+- EquipajeExtra: eleccion de equipaje extra porparte de lospasajeros. 
+- QuiereComidaEnVuelo: si desea comida en el vuelo. 
+- DuracionDelVuelo: duracion de cada vuelo
+- ReservaCompleta: si completan la reserva en el momento de hacer la compra.
