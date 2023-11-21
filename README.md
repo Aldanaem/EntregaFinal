@@ -1,7 +1,4 @@
 ![portada](Datos/grupo8.png)
-# EntregaFinal
-
-## Integrantes: Aldana Mañaricua, Gabriela Oxandaburu, Daniela Araujo, Clara Sanchez Egea. 
 
 ### PREDICCION DE LA ELECCION EXTRA DE EQUIPAJE DE AEROLINEAS BRITISH AIRWAYS
 
