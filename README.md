@@ -1,4 +1,4 @@
-![portada](Datos/grup8.png)
+![portada](Datos/grupo8.png)
 # EntregaFinal
 
 ## Integrantes: Aldana Mañaricua, Gabriela Oxandaburu, Daniela Araujo, Clara Sanchez Egea. 
