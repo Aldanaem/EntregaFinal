@@ -8,7 +8,7 @@ Es de publico conocimiento que en el 90% de los vuelos, los pasajeros llevan equ
 ## OBJETIVO
 Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia de los pasajeros de Aerolineas British Airways.
 
-### DICCIONARIO 
+## DICCIONARIO 
 
 * NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
 * CanalDeVenta: medio por el cual se relizo la venta de vuelos. 
