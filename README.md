@@ -27,3 +27,7 @@ Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia 
 - https://www.linkedin.com/in/daniela-camila-araujo
   
 - http://linkedin.com/in/clara-sanchez-egea
+
+  https://www.linkedin.com/in/aldana-estefania-ma%C3%B1aricua
+
+-https://www.linkedin.com/in/gabriela-luciana-oxandaburu
