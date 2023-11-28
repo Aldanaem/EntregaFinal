@@ -10,8 +10,8 @@ Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia 
 
 ## DICCIONARIO 
 
-* NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
-* CanalDeVenta: medio por el cual se relizo la venta de vuelos. 
+- NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
+- CanalDeVenta: medio por el cual se relizo la venta de vuelos. 
 - TipoDeViaje': si es un viaje Ida y vuelta, Unidireccional o Circular.
 - ClientePotencial: -Estadia: la duracion de la estadia. 
 - HorarioDelVuelo: los hs de salida de los vuelos. 
@@ -22,6 +22,9 @@ Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia 
 - QuiereComidaEnVuelo: si desea comida en el vuelo. 
 - DuracionDelVuelo: duracion de cada vuelo
 - ReservaCompleta: si completan la reserva en el momento de hacer la compra.
+
+
+- origen del dataset : kaggle https://www.kaggle.com/datasets/manishkumar7432698/airline-passangers-booking-data
 
 # PERFILES LINKEDIN
 - https://www.linkedin.com/in/daniela-camila-araujo
