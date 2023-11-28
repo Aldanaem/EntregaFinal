@@ -22,3 +22,8 @@ Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia 
 - QuiereComidaEnVuelo: si desea comida en el vuelo. 
 - DuracionDelVuelo: duracion de cada vuelo
 - ReservaCompleta: si completan la reserva en el momento de hacer la compra.
+
+
+- https://www.linkedin.com/in/daniela-camila-araujo
+- 
+- http://linkedin.com/in/clara-sanchez-egea
