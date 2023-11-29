@@ -13,7 +13,7 @@ realizar un análisis del las preferencias de los pasajeros de la aerolinea a la
 
 ### Modelo de Apredizaje No Supervisado :
 El objetivo es poder obtener información respecto a las preferencias de los usuarios en los vuelos de British Airlines, clasificándolos y agrupándolos según determinadas características
-### Modwlo de Aprendizaje Supervisado Clasificación: 
+### Modelo de Aprendizaje Supervisado Clasificación: 
 Predicción de la elección extra de equipaje de aerolíneas British Airways
 ## DICCIONARIO 
 
