@@ -6,9 +6,15 @@
 Lo que se pretende con este proyecto es un análisis de de todas las elecciones de los pasajeros a la hora de reservar un vuelo, para desarrollar un plan de negocios que nos ayude a la toma de decisiones de una empresa.
 Para esto usamos una base de datos de la la Aerolínea British Airways.
 Usando como herramientas el Análisis Exploratorio, Análisis Supervisado y Análisis No Supervisado.
-## OBJETIVO
-Predecir la eleccion de equipaje extra dependiendo de la duracion de la estadia de los pasajeros de Aerolineas British Airways.
+## OBJETIVO GENERAL 
+realizar un análisis del las preferencias de los pasajeros de la aerolinea a la hora de reservar un pasaje 
 
+## OBJETIVOS ESPECÍFICOS
+
+### Modelo de Apredizaje No Supervisado :
+El objetivo es poder obtener información respecto a las preferencias de los usuarios en los vuelos de British Airlines, clasificándolos y agrupándolos según determinadas características
+### Aprendizaje Supervisado Clasificación: 
+Predicción de la elección extra de equipaje de aerolíneas British Airways
 ## DICCIONARIO 
 
 - NumeroDePasajeros: numero asignado a cada pasajero, es un numero unico. 
