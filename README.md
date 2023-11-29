@@ -33,7 +33,7 @@ Predicción de la elección extra de equipaje de aerolíneas British Airways
 
 - origen del dataset : kaggle https://www.kaggle.com/datasets/manishkumar7432698/airline-passangers-booking-data
 
-# PERFILES LINKEDIN
+## PERFILES LINKEDIN
 - https://www.linkedin.com/in/daniela-camila-araujo
   
 - http://linkedin.com/in/clara-sanchez-egea
