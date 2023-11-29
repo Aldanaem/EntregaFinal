@@ -7,7 +7,7 @@ Lo que se pretende con este proyecto es un análisis de de todas las elecciones 
 Para esto usamos una base de datos de la la Aerolínea British Airways.
 Usando como herramientas el Análisis Exploratorio, Análisis Supervisado y Análisis No Supervisado.
 ## OBJETIVO GENERAL 
-realizar un análisis del las preferencias de los pasajeros de la aerolinea a la hora de reservar un pasaje 
+Realizar un análisis exhaustivo de las preferencias de los pasajeros al reservar vuelos mediante el estudio de la base de datos de la Aerolínea British Airways. A través de técnicas como Análisis Exploratorio, Análisis Supervisado y Análisis No Supervisado, se busca desarrollar un sólido plan de negocios que respalde la toma de decisiones estratégicas para la mejora continua de la empresa.
 
 ## OBJETIVOS ESPECÍFICOS
 
